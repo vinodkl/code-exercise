@@ -1,0 +1,17 @@
+{
+  "name": "code-exercise",
+  "version": "1.0.0",
+  "description": "Image viewer code exersice",
+  "main": "server/index.js",
+  "license": "SEE LICENSE IN LICENSE",
+  "scripts": {
+    "start": "node server/index.js",
+    "build": "gulp build",
+    "test": "gulp tests"
+  },
+  "author": "vinodkl",
+  "devDependencies": {},
+  "dependencies": {
+
+  }
+}
