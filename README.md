@@ -38,7 +38,7 @@ ESLint will run and tests will be in watch mode.
 
 This will run eslint, tests and bundle the application in a single file called bundle.js under .dist/.
 
-```node run server```
+```npm run server```
 
 This will start the Express server responsible for both serving Application files and Artwork APIs.
 
