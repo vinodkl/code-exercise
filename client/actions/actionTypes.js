@@ -1,0 +1,12 @@
+/**
+* Action types constants
+**/
+
+// ARTWORK ACTIONS
+export const LOAD_ARTWORKS_SUCCESS = 'LOAD_ARTWORKS_SUCCESS';
+
+// APP ACTIONS
+export const CHANGE_GROUPING = 'CHANGE_GROUPING';
+export const SHOW_MORE_ITEMS = 'SHOW_MORE_ITEMS';
+export const SHOW_LESS_ITEMS = 'SHOW_LESS_ITEMS';
+export const SHOW_ALL_ITEMS = 'SHOW_ALL_ITEMS';
